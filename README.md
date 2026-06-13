@@ -25,13 +25,6 @@ The trained model is then deployed in a **Flask web app** with a simple UI where
 
 ---
 
-## ⚙️ Installation & Setup  
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/rjdecore/breast-cancer-detection-using-machine-learning-with-app.git
-   cd breast-cancer-detection-using-machine-learning-with-app
-
-
 # Create and activate a virtual environment
 - python -m venv venv
 - Windows (PowerShell):
@@ -54,7 +47,7 @@ The trained model is then deployed in a **Flask web app** with a simple UI where
 # 📸 Screenshot
 ## 📸 Screenshot  
 
-[App Screenshot](static/app.png)
+![App Screenshot](static/app.png)
 
 # 🚀 Future Improvements
 
